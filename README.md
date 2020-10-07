@@ -9,5 +9,3 @@
 - 📫 How to reach me: **vudh1@uci.edu**
 - 💬 Ask me about mechanical keyboards and basketball 🏀
 - 😄 Fun fact: My **PokemonGo Trainer Code** is 1217 9669 9915. Yes, I can be multitasking between finding bugs and Pikachus ⚡
-
-![](profile.JPG)
