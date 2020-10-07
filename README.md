@@ -8,6 +8,6 @@
 - 🌱 I’m also learning `AWS` and `Django` as an AI Engineer Intern at [IPMD, Inc.](http://www.ipmdinc.com/project-m.html) 
 - 📫 How to reach me: **vudh1@uci.edu**
 - 💬 Ask me about mechanical keyboards and basketball 🏀
-- 😄 Fun fact: My PokemonGo Trainer Code is 1217 9669 9915. Let's connect! Yess, I can be multitasking between finding coding bugs and Pikachus ⚡
+- 😄 Fun fact: My PokemonGo Trainer Code is 1217 9669 9915. Let's connect! YES, I can be multitasking between finding coding bugs and shiny Pikachus ⚡
 
 ![](profile.JPG)
