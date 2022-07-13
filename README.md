@@ -1,7 +1,5 @@
 <h3 align="center"> Hi there 👋 Here is something about myself if you are exhausted from reading codes </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vudh1" alt="vudh1" /> </p>
-
 - 🤔 My name is **Duong Vu**, and friends usually call me **Daniel**
 - 🎓 I'm from Class of 2020 in `UC Irvine` with B.S in Computer Science
 - 🔭 I’m currently working for AWS SDK Team at [Amazon.com, Inc.](https://aws.amazon.com/getting-started/tools-sdks/)
